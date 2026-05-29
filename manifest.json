@@ -2,7 +2,7 @@
   "name": "ASCEND",
   "short_name": "ASCEND",
   "description": "Fitness gamification — earn XP, level up, hit goals",
-  "start_url": "./ascend.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#07090f",
