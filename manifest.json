@@ -1,0 +1,25 @@
+{
+  "name": "ASCEND",
+  "short_name": "ASCEND",
+  "description": "Fitness gamification — earn XP, level up, hit goals",
+  "start_url": "./ascend.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
